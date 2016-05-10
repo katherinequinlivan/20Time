@@ -18,15 +18,32 @@ p{
 	font-family: 'Quicksand-Bold.otf', sans-serif;
 	color: 	white;
 	font-size: 1.6em
+}
 
+#factsPic {
 
+	height: 450%;
+	width: 80%;
 
 }
 
-.paragraph{
-	background-color: rgba(193, 255, 255, .75);
-
+#compPic {
+	margin-top: 50px;
 }
+
+
+
+#threatsPic{
+	height: 100x;
+	width: 400px;
+	margin-bottom: 10px;
+}
+
+#cyberPara {
+	margin-left: 30% ;
+	margin-right: 30% ;
+}
+
 
 .dropdown-content{
 	display: none;
@@ -68,6 +85,11 @@ p{
 	background-color: rgba(255, 255, 255, .75);
 }
 
+.threats {
+	background-color: rgba(193, 255, 255, .75);
+
+}
+
 ul {
 	list-style-type: none;
 	margin: 0;
@@ -83,11 +105,11 @@ h1 {
 }
 
 h2 {
-	font-size: 1.75em;
-	color: white;
+	font-size: 2.25em;
+	color: Black;
 	text-align: center;
 	font-family: 'Quicksand-Bold.otf', sans-serif;
-
+	background-color: rgba(193, 255, 255, .75);
 
 }
 
@@ -95,7 +117,22 @@ h3 {
 	font-size: 1.75em;
 	color: white;
 	font-family: 'Quicksand-Bold.otf', sans-serif;
+	background-color: rgba(193, 255, 255, .75);
 
+}
+h4 {
+	font-size: 1.8em;
+	color: White;
+	text-align: center;
+	font-family: 'Quicksand-Bold.otf', sans-serif;
+
+
+}
+
+h5 {
+	font-size: 1.75em;
+	color: white;
+	font-family: 'Quicksand-Bold.otf', sans-serif;
 
 }
 
@@ -105,3 +142,4 @@ h3 {
 	font-family: 'Quicksand-Bold.otf';
 	src: url("../fonts/quicksand/Quicksand-Bold.otf"); 
 }
+
