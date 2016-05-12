@@ -31,6 +31,11 @@ p{
 	margin-top: 50px;
 }
 
+#conferPic {
+	height: 20%;
+	width: 50%
+}
+
 
 
 #threatsPic{
@@ -136,6 +141,9 @@ h5 {
 
 }
 
+.paragraph {
+	background-color: rgba(193, 255, 255, .75);
+}
 
 
 @font-face {
