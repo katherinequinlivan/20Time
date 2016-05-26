@@ -20,6 +20,15 @@ p{
 	font-size: 1.6em
 }
 
+iframe {
+	position:relative;
+
+}
+
+#Katherine { 
+	display: none;
+}
+
 #factsPic {
 
 	height: 450%;
